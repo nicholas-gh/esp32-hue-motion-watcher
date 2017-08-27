@@ -1,0 +1,15 @@
+#ifndef SETTINGS_H_
+#define SETTINGS_H_
+
+#define WEB_SERVER "api.pushbullet.com"
+#define WEB_PORT "443"
+#define PUSHBULLET_TOKEN "xxxxxxx"
+
+#define HUE_WEB_SERVER "172.1.1.1"
+#define HUE_WEB_PORT 80
+#define HUE_WEB_URL "/api/xxx/sensors/13"
+
+#define CONFIG_WIFI_SSID "xxx"
+#define CONFIG_WIFI_PASSWORD "xxxx"
+
+#endif

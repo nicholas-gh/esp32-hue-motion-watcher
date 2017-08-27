@@ -1,0 +1,10 @@
+This is a hacked up mixture of
+
+https://github.com/imxieyi/esp32-i2c-ssd1306-oled/
+https://github.com/espressif/esp-idf.git
+https://github.com/pcbreflux/espressif
+
+and I need to tidy up, fix up what is which license, and so on.
+
+It's essentially a prototype. Now it does work, starts the task of
+rearranging the code to some sense.
